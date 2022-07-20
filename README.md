@@ -1,3 +1,3 @@
-Upgrad Assignment: Fundamentals of Software Engineering
+Upgrad Assignment: Restaurant Finder
 
 Name: Dang Vo Hiep
